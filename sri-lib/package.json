@@ -1,0 +1,10 @@
+{
+  "name": "sri-lib",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "exports": "./sri.mjs",
+  "keywords": [],
+  "author": "",
+  "license": "MIT"
+}
